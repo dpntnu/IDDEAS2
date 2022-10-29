@@ -1,0 +1,30 @@
+.publications-allpaper {
+    padding: 0rem 2rem 0rem 1.5rem;
+    text-align: justify;
+}
+
+.Publications-Title {
+    color: var(--mainHeadingTextColor);
+    font-weight: 1000;
+    font-size: xx-large;
+}
+
+.body-content-title {
+    color: var(--mainHeadingTextColor);
+    font-weight: 1000;
+    font-size: x-large;
+    padding-top: 0.5rem;
+  }
+
+
+
+.publications-journalname{
+    font-style: italic;
+}
+
+p.publications-year {
+    font-style: italic;
+    margin-bottom: 0;
+
+}
+

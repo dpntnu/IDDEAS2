@@ -1,0 +1,55 @@
+
+  .Homepage {
+    padding: 2rem;
+    text-align: justify;
+  }
+
+  .homepageVideo {
+    position: relative;
+    padding-bottom: 56.25%;
+    z-index: 100;
+    padding-top: 25;
+    height: 0;
+  }
+
+  .homepageVideo iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .Homepage-IDDEASTitle {
+    color: var(--mainHeadingTextColor);
+    font-weight: 1000;
+    font-size: xx-large;
+    padding-top: 1.5rem;
+  }
+
+  .text-blocks .body-content, .body-content-seemore ul
+  {
+ 
+    padding: 0 2rem 0 2rem;
+  }
+
+  .body-content-title {
+    color: var(--mainHeadingTextColor);
+    font-weight: 1000;
+    font-size: x-large;
+    padding-top: 0.5rem;
+  }
+
+  .Organization-readMore {
+    font-weight: 600;
+    color: var(--mainHeadingTextColor);
+    text-decoration: underline;
+  }
+
+  .Organization-readMore:hover {
+    color: var(--textColor);
+    width: 25%;
+    text-decoration: underline;
+    font-weight: 600;
+    background-color: var(--textBackgroundColor);
+  }
